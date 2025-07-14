@@ -40,7 +40,8 @@ Global flood risk trends and predictive models by country and region.
 
 | Disaster Type        | Report Link | Status        |
 |----------------------|-------------|----------------|
-| 🌍 Earthquakes        | [Earthquake Forecast 2025–2026](https://yourwebsite.com/earthquake-forecast-2025) | ![Published](https://img.shields.io/badge/status-published-brightgreen) |
+| 🌍 Earthquakes        | [Earthquake Forecast 2025–2026](https://github.com/oladimeji-kazeem/earthquake-forecast) | ![Published](https://img.shields.io/badge/status-published-brightgreen) |
+| 🔥 Epidemics          | [Epidemic Forecast 2025-2026](https://github.com/oladimeji-kazeem/global-epidermic/tree/master) | ![Published](https://img.shields.io/badge/status-published-brightgreen) |
 | 💧 Floods            | *Coming Soon* | ![Coming Soon](https://img.shields.io/badge/status-coming--soon-yellow) |
 | 🔥 Wildfires         | *Coming Soon* | ![Coming Soon](https://img.shields.io/badge/status-coming--soon-yellow) |
 | 🌪️ Storms/Cyclones   | *Coming Soon* | ![Coming Soon](https://img.shields.io/badge/status-coming--soon-yellow) |
